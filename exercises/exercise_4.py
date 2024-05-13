@@ -5,6 +5,6 @@ a = num // 10
 b = num // 100
 
 if num % 10 == num // 1000 and a % 10 == b % 10:
-  print("symmetrical")
+  print("1")
 else:
-  print("not symmetrical")
+  print("0")
